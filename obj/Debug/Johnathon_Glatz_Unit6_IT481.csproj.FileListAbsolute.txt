@@ -1,0 +1,7 @@
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit6_IT481\Johnathon_Glatz_Unit6_IT481\obj\Debug\Johnathon_Glatz_Unit6_IT481.csproj.AssemblyReference.cache
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit6_IT481\Johnathon_Glatz_Unit6_IT481\obj\Debug\Johnathon_Glatz_Unit6_IT481.csproj.CoreCompileInputs.cache
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit6_IT481\Johnathon_Glatz_Unit6_IT481\bin\Debug\Johnathon_Glatz_Unit6_IT481.exe.config
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit6_IT481\Johnathon_Glatz_Unit6_IT481\bin\Debug\Johnathon_Glatz_Unit6_IT481.exe
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit6_IT481\Johnathon_Glatz_Unit6_IT481\bin\Debug\Johnathon_Glatz_Unit6_IT481.pdb
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit6_IT481\Johnathon_Glatz_Unit6_IT481\obj\Debug\Johnathon_Glatz_Unit6_IT481.exe
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit6_IT481\Johnathon_Glatz_Unit6_IT481\obj\Debug\Johnathon_Glatz_Unit6_IT481.pdb
